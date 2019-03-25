@@ -1,0 +1,26 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "liribot",
+  "main": "hw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTagorda/liribot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTagorda/liribot/issues"
+  },
+  "homepage": "https://github.com/JTagorda/liribot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
